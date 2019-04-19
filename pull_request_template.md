@@ -3,7 +3,7 @@ Indique la función.
 ## ¿Cómo ver la función que realiza?
 Indique una url.
 ## Es en el:
--[] Frontend.
--[] Backend.
+- [ ] Frontend.
+- [ ] Backend.
 ## Desea agregar alguna descripción adicional?
 Mi descripción.
